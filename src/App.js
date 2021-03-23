@@ -8,13 +8,6 @@ import tablet2 from './img/tablet2.png'
 import AddEmailForm from './components/add-to-list-form'
 import './App.css';
 
-//test store to firestore
-//UPDATE: working
-/*
-firebase.firestore().collection('list').add({
-  email: 'testing.com'
-})
-*/
 
 function App() {
   return (
